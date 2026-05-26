@@ -1,0 +1,20 @@
+# Claude Code
+CLAUDE.md
+
+# Secrets — never commit these
+.env
+.env.*
+secrets/*.key
+secrets/*.pem
+*.key
+*.pem
+*.crt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
