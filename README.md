@@ -2,6 +2,13 @@
 
 Infraestructura-como-código del iLab, CUCEI — Universidad de Guadalajara.
 
+## Propósito
+
+El iLab es el laboratorio de innovación del CUCEI. Este repositorio formaliza la infraestructura
+del laboratorio: documenta el servidor, estandariza el despliegue de aplicaciones y establece
+una base sólida para que cualquier colaborador pueda entender, reproducir y extender el entorno
+sin depender del conocimiento de una sola persona.
+
 Un servidor. Docker Compose por servicio. Todo declarado en este repositorio.
 
 ## Stack
